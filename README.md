@@ -48,7 +48,8 @@ This project demonstrates **Java OOP concepts** along with a clean and interacti
 
 ## 📂 Project Structure
 
-1. `Email.java`
-2. `EmailApp.java`
-3. `EmailAppSwing.java`
+src/
+├── Email.java
+├── EmailApp.java
+└── EmailAppSwing.java
 
