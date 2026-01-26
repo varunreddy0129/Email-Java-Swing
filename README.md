@@ -1,7 +1,9 @@
 # 📧 Email Administration System (Java Swing)
 
 A **Java Swing–based desktop application** for creating and managing employee email accounts.  
-This project demonstrates **Java OOP concepts** along with a clean and interactive **Swing GUI**.
+This project demonstrates strong **Object-Oriented Programming (OOP)** concepts along with a clean and interactive **Swing GUI**.
+
+🚀 **Deployed as a runnable JAR via GitHub Releases**
 
 ---
 
@@ -42,31 +44,26 @@ This project demonstrates **Java OOP concepts** along with a clean and interacti
 8. Change password using the password section
 
 ---
-<img width="1103" height="795" alt="image" src="https://github.com/user-attachments/assets/1382fd9e-a2b7-4ee3-a387-00f22d2e550f" />
+
+## 📸 Screenshot
+
+<img width="1103" height="795" alt="Email Administration System Screenshot" src="https://github.com/user-attachments/assets/1382fd9e-a2b7-4ee3-a387-00f22d2e550f" />
 
 ---
 
 ## 📂 Project Structure
 
-1. `Email.java`
-2. `EmailApp.java`
-3. `EmailAppSwing.java`
+- `Email.java` — Core email logic and data handling  
+- `EmailApp.java` — Console-based testing logic  
+- `EmailAppSwing.java` — Swing GUI implementation (Main class)
 
 ---
-## ▶️ How to Run
 
-1. Make sure Java (JDK 21 or later) is installed  
-   Check using:
-   java -version
+## ▶️ How to Run the Application
 
-2. Download the latest JAR from the Releases page:
-   https://github.com/varunreddy0129/Email-Java-Swing/releases
+### 1️⃣ Install Java
+Make sure **Java JDK 21 or later** is installed.
 
-3. Open Command Prompt / Terminal in the download folder
-
-4. Run the application using:
-   java -jar EmailAdminSwing.jar
-
-
-
-
+Check using:
+```bash
+java -version
