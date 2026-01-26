@@ -114,15 +114,6 @@ java -jar EmailAdminSwing.jar
 
 ---
 
-## 🚀 Future Enhancements
-
-* Database integration (MySQL / PostgreSQL)
-* Export email details to file (CSV / PDF)
-* Admin login authentication
-* Improved UI with JavaFX
-
----
-
 ## 👨‍💻 Author
 
 **Varun Reddy**
