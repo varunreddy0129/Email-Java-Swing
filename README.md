@@ -52,5 +52,21 @@ This project demonstrates **Java OOP concepts** along with a clean and interacti
 2. `EmailApp.java`
 3. `EmailAppSwing.java`
 
+---
+## ▶️ How to Run
+
+1. Make sure Java (JDK 21 or later) is installed  
+   Check using:
+   java -version
+
+2. Download the latest JAR from the Releases page:
+   https://github.com/varunreddy0129/Email-Java-Swing/releases
+
+3. Open Command Prompt / Terminal in the download folder
+
+4. Run the application using:
+   java -jar EmailAdminSwing.jar
+
+
 
 
